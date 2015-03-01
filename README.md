@@ -1,5 +1,5 @@
 # vagrant-lnmp-ubuntu
-Vagrant LNMP provision script based on **ubuntu/trusty32** (**Ubuntu 14.04**) - create date: **2015-03-01**
+Vagrant LNMP environment based on **ubuntu/trusty32** (**Ubuntu 14.04**) - create date: **2015-03-01**
 
 Machine use **shell script** to provision applications.
 
